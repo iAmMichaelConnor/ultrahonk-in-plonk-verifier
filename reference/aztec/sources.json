@@ -1,0 +1,8 @@
+{
+  "aztec_commit": "0219f11d8133970df3974fe5ae65e006bf8c193a",
+  "sha256": {
+    "Relations.sol": "8cf580a4addf3b498d6cf3c08f06e7d170b67af059214e27b9c50acf2669d148",
+    "HonkTypes.sol": "1723f898a214e0b3878f6988d1bc08cf9490636a8d7082d345f7f8a494a37a76",
+    "relations.circom": "7089e87f78d22f278c904697ca45e3d2f7ee6040e8b2467a9e616d7e95fd1ed4"
+  }
+}

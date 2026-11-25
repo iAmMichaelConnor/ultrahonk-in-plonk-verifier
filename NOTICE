@@ -1,0 +1,7 @@
+uh-in-plonk
+
+The UltraHonk protocol relations and Poseidon2 constants are derived from
+AztecProtocol/aztec-packages under Apache License 2.0, pinned to commit
+0219f11d8133970df3974fe5ae65e006bf8c193a. Original relation sources and their
+license are retained in reference/aztec. The derived Circom relation source,
+fixtures, Poseidon2 parameters and vectors are retained as reference material.

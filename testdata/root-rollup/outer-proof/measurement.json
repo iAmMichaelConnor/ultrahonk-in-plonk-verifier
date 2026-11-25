@@ -1,0 +1,37 @@
+{
+  "g1_algorithm": "complete shared 5-bit Horner MSM; fixed-base comb; checked GLV+fake-GLV merge",
+  "deferred_pairing": true,
+  "aztec_ceremony_srs": {
+    "canonical_powers": 16777219,
+    "lagrange_domain": 16777216,
+    "canonical_prefix_sha256": "1c55cec71e690d57cd396c363b986e27e11eb5088b7cf7a136c90b0f530d5fd5",
+    "g2_file_sha256": "01797bfc4de5a96f0e516a9ea4537d18786dc30cb991aca4274c95822b69c32f",
+    "load_seconds": 1.399175765,
+    "all_powers_check_seconds": 7.36519559,
+    "lagrange_seconds": 14.23187834,
+    "lagrange_cache_hit": true,
+    "lagrange_cache_check_seconds": 13.675493534
+  },
+  "fixture": "root-rollup",
+  "accumulator_profile": "general",
+  "public_mode": "Poseidon2 digest",
+  "application_inputs": 113,
+  "outer_public_inputs": 9,
+  "constraints": 13840170,
+  "domain": 16777216,
+  "witness_encoding_seconds": 0.000795947,
+  "witness_solve_seconds": 1.93633759,
+  "prove_seconds_including_fresh_solve": 67.754897421,
+  "verify_seconds": 0.004202491,
+  "excluded_compile_seconds": 18.221844034,
+  "excluded_setup_seconds": 36.632836995,
+  "proof_verified": true,
+  "changed_statement_rejected": true,
+  "measured_on": "2026-10-29",
+  "toolchain": {
+    "go": "go1.26.10",
+    "gnark": "v0.16.4"
+  },
+  "production_source_sha256": "57652413e16dc7e23d6af98744ef97355ecdf0aa7b9dd126a8e2c669508860a5",
+  "source_commit": "bd2017da7e2abd480707c6413369cc5eb7d00ec3"
+}

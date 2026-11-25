@@ -1,0 +1,27 @@
+build/
+target/
+__pycache__/
+*.py[cod]
+.planny/
+
+# Compiled circuits and witnesses
+*.r1cs
+*.wtns
+*.sym
+*.wasm
+
+# Ceremony material and proving keys
+.bb-crs/
+crs/
+srs/
+srs-cache/
+trusted-setup/
+proving-keys/
+/bn254_g1*.dat
+/bn254_g2*.dat
+*.ptau
+*.zkey
+*.srs
+*.pk
+proving-key.bin
+proving_key.bin

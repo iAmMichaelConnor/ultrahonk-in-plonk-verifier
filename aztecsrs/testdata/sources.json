@@ -1,0 +1,15 @@
+{
+  "source": "Local Aztec BN254 ceremony cache at ~/.bb-crs",
+  "encoding": "G1: big-endian canonical x,y; G2 tau: x.A0,x.A1,y.A0,y.A1",
+  "points": 19,
+  "files": {
+    "bn254_g1.dat": {
+      "bytes": 1216,
+      "sha256": "08c7f8b9228f1345adcb6216240a56524e0b7929925e4ea57a21df2af6a4a359"
+    },
+    "bn254_g2.dat": {
+      "bytes": 128,
+      "sha256": "01797bfc4de5a96f0e516a9ea4537d18786dc30cb991aca4274c95822b69c32f"
+    }
+  }
+}
